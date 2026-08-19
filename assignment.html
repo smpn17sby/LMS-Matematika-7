@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tugas Upload</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header><h1>Upload Tugas</h1></header>
+  <main>
+    <h2>Instruksi Tugas</h2>
+    <p>Kerjakan makalah Bab 1 dengan format PDF, maksimal 2 MB. Unggah sebelum batas waktu.</p>
+    <!-- Ganti action dengan endpoint Formspree Anda -->
+    <form action="https://formspree.io/f/yourFormID" method="POST" enctype="multipart/form-data">
+      <label>Nama Lengkap: <input type="text" name="nama" required></label><br>
+      <label>NIM/NIS: <input type="text" name="nim" required></label><br>
+      <label>File Tugas: <input type="file" name="file" accept=".pdf,.doc,.docx" required></label><br>
+      <button type="submit">Kirim</button>
+    </form>
+  </main>
+  <script src="js/assignment.js"></script>
+</body>
+</html>
