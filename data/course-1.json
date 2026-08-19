@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "title": "Matematika Kelas VII",
+  "description": "Materi aljabar, geometri, dan statistika untuk semester 1.",
+  "topics": [
+    {
+      "title": "Pertemuan 1: Aljabar Dasar",
+      "content": "Pengenalan variabel, persamaan linear, dan contoh soal.",
+      "files": [
+        {"name": "Materi Aljabar.pdf", "url": "assets/files/aljabar.pdf"}
+      ],
+      "video_url": "https://www.youtube.com/embed/xxxx"
+    },
+    {
+      "title": "Pertemuan 2: Geometri Bidang",
+      "content": "Sifat-sifat bangun datar dan perhitungan luas.",
+      "files": [
+        {"name": "Slide Geometri.pptx", "url": "assets/files/geometri.pptx"}
+      ]
+    }
+  ]
+}
