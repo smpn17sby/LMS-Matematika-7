@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Matematika Kelas X",
+    "description": "Materi aljabar, geometri, dan statistika.",
+    "instructor": "Budi Santoso, S.Pd.",
+    "thumbnail": "assets/images/math.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Bahasa Indonesia",
+    "description": "Pembelajaran teks, sastra, dan kebahasaan.",
+    "instructor": "Siti Aminah, M.Pd.",
+    "thumbnail": "assets/images/bindo.jpg"
+  }
+]
