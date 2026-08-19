@@ -1,0 +1,16 @@
+{
+  "course_id": 1,
+  "title": "Kuis Aljabar Dasar",
+  "questions": [
+    {
+      "question": "Berapakah nilai x jika 2x + 5 = 15?",
+      "options": ["5", "10", "7", "15"],
+      "answer": 0
+    },
+    {
+      "question": "Hasil dari (3x + 2) - (x - 5) adalah...",
+      "options": ["2x + 7", "4x - 3", "2x - 3", "4x + 7"],
+      "answer": 0
+    }
+  ]
+}
