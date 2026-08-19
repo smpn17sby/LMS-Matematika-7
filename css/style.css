@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+  background: #f9f9f9;
+}
+
+header {
+  background: #2c3e50;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.course-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  padding: 15px;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.course-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+/* Responsif untuk HP */
+@media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+  nav a {
+    display: block;
+    margin: 5px 0;
+  }
+}
