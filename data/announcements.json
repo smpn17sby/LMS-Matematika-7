@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "date": "2024-05-01",
+    "title": "Selamat Datang di LMS",
+    "content": "Gunakan LMS ini untuk mengakses materi, mengerjakan kuis, dan mengumpulkan tugas. Pastikan Anda membaca petunjuk penggunaan sebelum memulai."
+  },
+  {
+    "id": 2,
+    "date": "2026-08-30",
+    "title": "Batas Pengumpulan Tugas",
+    "content": "Tugas makalah Bab 1 paling lambat dikumpulkan tanggal 30 Agustus 2026 pukul 23:59 WIB."
+  }
+]
